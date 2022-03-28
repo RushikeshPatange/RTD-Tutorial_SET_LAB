@@ -1,6 +1,6 @@
 Welcome to Lumache's documentation!
 ===================================
-
+Lumache has its documentation hosted on Read the Docs.
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -21,3 +21,4 @@ Contents
 
    usage
    api
+ 
